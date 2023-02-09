@@ -14,6 +14,7 @@ body {
     -ms-overflow-style: none;
     overflow: hidden;
  overflow-y: scroll;
+    display:none;
 
 }
 
